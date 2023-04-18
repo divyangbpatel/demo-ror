@@ -14,6 +14,5 @@
  *= require_self
  */
 
- @import "./plugins/sb-admin-2";
- @import "./plugins/sb-admin-2.min";
- 
+@import "./plugins/sb-admin-2";
+@import "./plugins/sb-admin-2.min";
